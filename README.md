@@ -2,6 +2,8 @@
 
 Laravel 8 package for communicating with the API from versio.nl
 
+Based on the works of: https://github.com/Cannonb4ll/LaravelVersio
+
 ## Installation 
 
 You can install the package through Composer.
